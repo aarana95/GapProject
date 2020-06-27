@@ -1,0 +1,11 @@
+<config>
+  
+  <datos>
+    <train>paro.csv, bbc.csv</train>
+    <target>pib.csv</target>
+  </datos>
+  
+  <testRate>0.2</testRate>
+  <outputFile>Nueva Carpeta</outputFile>
+  
+</config>
